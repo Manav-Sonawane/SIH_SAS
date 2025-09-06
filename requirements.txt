@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+PyQt5
+opencv-python
+deepface
+mysql-connector-python
+requests
